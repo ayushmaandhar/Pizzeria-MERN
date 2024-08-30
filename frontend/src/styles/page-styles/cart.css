@@ -1,0 +1,30 @@
+.pizza-item-img {
+    width: 30%;
+}
+
+.pizza-cart-section {
+    box-shadow: 1px 1px 6px 1px rgba(0, 0, 0, 0.2);
+    padding: 1%;
+}
+
+.single-pizza-item {
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-bottom: 3px;
+}
+
+.ing-cart-section {
+    box-shadow: 1px 1px 6px 1px rgba(0, 0, 0, 0.2);
+    margin-left: 1.5rem;
+    padding: 1%;
+}
+
+.cart-aggregation-section {
+    box-shadow: 1px 1px 6px 1px rgba(0, 0, 0, 0.2);
+    margin-top: 1%;
+    padding: 1%;
+}
+
+.nopizza {
+    width: 5vw;
+}

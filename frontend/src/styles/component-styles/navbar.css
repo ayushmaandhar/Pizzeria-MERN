@@ -1,0 +1,25 @@
+.nav-bar {
+    padding: 0%;
+}
+
+.nav-cart {
+    width: 25px;
+}
+
+.nav-title {
+    font-weight: 100;
+}
+
+.nav-item:hover {
+    color:aliceblue;
+}
+
+.nav-text-grey {
+    color: rgb(184, 184, 184);
+    font-weight: 400;
+}
+
+.nav-logo {
+    width: 6%;
+    
+}
